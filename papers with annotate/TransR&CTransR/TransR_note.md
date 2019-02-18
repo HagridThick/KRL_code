@@ -12,13 +12,11 @@ transR =  映射函数、socre function
 
 CtransR = 增加了一个 rc-r 的项防止偏离
 
-
-
 Margin-based score function 用于训练
 
 SGD
 
-
+---------
 
 Mean rank of correct entities 与 top10  proportion of correct 两种评估标准 
 
